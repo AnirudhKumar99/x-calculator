@@ -37,7 +37,7 @@ export const Calculator = () => {
     "2",
     "3",
     "*",
-    "c",
+    "C",
     "0",
     "=",
     "/",
