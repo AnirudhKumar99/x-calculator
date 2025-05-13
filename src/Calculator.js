@@ -5,7 +5,7 @@ export const Calculator = () => {
   const [result, setResult] = useState("");
   const handleClick = (e) => {
     let button = e.target.innerText;
-    if (button === "c") {
+    if (button === "C") {
       setExpression("");
       setResult("");
     } else if (button === "=") {
